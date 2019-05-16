@@ -1,0 +1,6 @@
+entities\DAO\HibernateConfig.class
+entities\PetSittingRequest.class
+entities\Client.class
+entities\PetSitter.class
+entities\DAO\TestService.class
+entities\Pet.class
